@@ -1,10 +1,11 @@
 [
   {
     "id": "a",
-    "name": "KotaMalaya Roleplay",
-    "ip": "151.243.226.11",
+    "name": "Server A — Roleplay",
+    "joinCode": "YOUR_CFX_JOIN_CODE",
+    "ip": "123.45.67.89",
     "port": 30120,
-    "icon": "https://r2.fivemanage.com/26f33T73cbH969qGsY0Eq/logolauncher.png",
+    "icon": "https://picsum.photos/80/80?random=21",
     "background": "https://picsum.photos/1000/400?random=11",
     "gallery": [
       "https://picsum.photos/1200/500?random=11",
@@ -15,11 +16,12 @@
     "type": "Roleplay",
     "region": "Malaysia",
     "publishedDate": "15 Jan 2024",
-    "discordUrl": "https://discord.gg/FhQTWQJnTt"
+    "discordUrl": "https://discord.gg/YOUR_INVITE"
   },
   {
     "id": "b",
     "name": "Server B — Freeroam",
+    "joinCode": "YOUR_CFX_JOIN_CODE",
     "ip": "98.76.54.32",
     "port": 30120,
     "icon": "https://picsum.photos/80/80?random=22",
@@ -32,24 +34,6 @@
     "description": "Freeroam santai dengan pelbagai vehicle dan map custom, tiada whitelist, sesuai untuk player yang nak explore bebas.",
     "type": "Freeroam",
     "region": "Indonesia",
-    "publishedDate": "02 Mar 2024",
-    "discordUrl": "https://discord.gg/YOUR_INVITE"
-  },
-  {
-    "id": "c",
-    "name": "Server C — Freeroam",
-    "ip": "98.76.54.32",
-    "port": 30120,
-    "icon": "https://picsum.photos/80/80?random=22",
-    "background": "https://picsum.photos/1000/400?random=12",
-    "gallery": [
-      "https://picsum.photos/1200/500?random=12",
-      "https://picsum.photos/1200/500?random=121",
-      "https://picsum.photos/1200/500?random=122"
-    ],
-    "description": "Freeroam santai dengan pelbagai vehicle dan map custom, tiada whitelist, sesuai untuk player yang nak explore bebas. Server ini menawarkan pengalaman roleplay serius dengan sistem ekonomi custom, job system, dan whitelist untuk memastikan kualiti komuniti.",
-    "type": "Freeroam",
-    "region": "USA",
     "publishedDate": "02 Mar 2024",
     "discordUrl": "https://discord.gg/YOUR_INVITE"
   }
