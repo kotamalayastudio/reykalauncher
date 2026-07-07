@@ -7,9 +7,9 @@
     "https://picsum.photos/1000/300?random=35"
   ],
   "announcements": [
-    { "title": "Maintenance", "text": "Server akan down untuk maintenance pada 10 malam, 30 minit." },
-    { "title": "Event", "text": "Double RP weekend bermula Jumaat ini sehingga Ahad!" },
-    { "title": "Update", "text": "Versi launcher terbaru sudah tersedia — update automatik." }
+    { "title": "Maintenance", "text": "Server akan down untuk maintenance pada 10 malam, 30 minit.", "image": "https://picsum.photos/900/300?random=51" },
+    { "title": "Event", "text": "Double RP weekend bermula Jumaat ini sehingga Ahad!", "image": "https://picsum.photos/900/300?random=52" },
+    { "title": "Update", "text": "Versi launcher terbaru sudah tersedia — update automatik.", "image": "https://picsum.photos/900/300?random=53" }
   ],
   "charity": {
     "title": "Charity Program",
@@ -19,6 +19,14 @@
       "https://picsum.photos/500/150?random=41",
       "https://picsum.photos/500/150?random=42",
       "https://picsum.photos/500/150?random=43"
+    ]
+  },
+  "shop": {
+    "title": "Shop",
+    "desc": "Dapatkan item, vehicle, dan perks eksklusif untuk server anda.",
+    "promoSlides": [
+      "https://picsum.photos/500/150?random=61",
+      "https://picsum.photos/500/150?random=62"
     ]
   }
 }
